@@ -1,0 +1,12 @@
+body {
+  padding: 40px;
+  font-family: "Courier New", monospace;
+  text-align: center;
+}
+
+#target {
+  font-size: 48px;
+  letter-spacing: 0.1em;
+  /* letter-spacing：字間 */
+  /* em：親要素のfont-sizeを基準に大きさを計算する */
+}
